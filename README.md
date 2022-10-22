@@ -10,7 +10,7 @@ The Python packages that I have used in this notebook are:
 # Matplotlib: For data visualization
 # Seaborn: For modern and statistical visualization
 
-# Analysis covered in this project:
+### Analysis covered in this project:
 # Number of matches played till now.
 # Number of IPL seasons.
 # Number of matches played in each season.
